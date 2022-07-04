@@ -6,7 +6,7 @@ solutions to all the problems.
 Unless explicitly stated otherwise; input will be provided through stdin and output should be printed to stdout. Lines should be delimited by the line feed
 (\n) character only.
 
-Problem 1
+# Problem 1
 You are given an array of n unique integers a = a[0], a[1], ... , a[n - 1] and an integer value k. Find and print the number of pairs (a[i], a
 [j]) where i < j and a[i] + a[j] = k.
 Input
@@ -28,7 +28,9 @@ Input
 The expected output is:
 Output
 2
-Problem 2
+
+
+# Problem 2
 Create a program that evaluates arithmetic expressions written in Polish notation. Expressions can contain double-precision floating point numbers and the
 following operations: addition, subtraction, division and multiplication.
 Input
@@ -55,7 +57,8 @@ Output
 100500.00
 error
 error
-Problem 3
+
+# Problem 3
 Implement a REST API for the solution to problem 2 that evaluates expressions that are supplied in the requests. Even though it may be a tiny API, be
 sure to provide everything you would expect from a production grade API.
 -----------
